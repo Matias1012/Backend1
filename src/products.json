@@ -1,24 +1,59 @@
 {
-    "items": [
+    "listadoProductos": [
         { 
             "id": 0 ,
-            "title" : "cocacola"
+            "title" : "cocacola",
+            "description": "description",
+            "code": "code",
+            "price": 456,
+            "status": true,
+            "stock": 231,
+            "category": "category",
+            "quantity": 1
         },
         { 
             "id": 1 ,
-            "title" : "pritty"
+            "title" : "pritty",
+            "description": "description",
+            "code": "code",
+            "price": 456,
+            "status": true,
+            "stock": 231,
+            "category": "category",
+            "quantity": 1
         },
         { 
             "id": 2 ,
-            "title" : "fernet"
+            "title" : "fernet",
+            "description": "description",
+            "code": "code",
+            "price": 456,
+            "status": true,
+            "stock": 231,
+            "category": "category",
+            "quantity": 1
         },
         { 
             "id": 3 ,
-            "title" : "pepsi"
+            "title" : "pepsi",
+                    "description": "description",
+            "code": "code",
+            "price": 456,
+            "status": true,
+            "stock": 231,
+            "category": "category",
+            "quantity": 1
         },
         { 
             "id": 4 ,
-            "title" : "manaos"
+            "title" : "manaos",
+            "description": "description",
+            "code": "code",
+            "price": 456,
+            "status": true,
+            "stock": 231,
+            "category": "category",
+            "quantity": 1
         }
     ]
 }

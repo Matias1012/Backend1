@@ -1,3 +1,8 @@
 {
-    "items" : []
+    "listadoDeCarritos": [
+        {
+            "idCarrito": 0,
+            "listadoProductos" : []
+        }
+    ]
 }
